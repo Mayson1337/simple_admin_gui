@@ -8,9 +8,9 @@ TODO in Login:
  + Encrypt passwords
 
 What your Database needs:
- + table "users"
- + column "id" in "users"
- + column "admingroup" in "users"
+ + table "admins"
+ + column "id" in "admins"
+ + column "admingroup" in "admins"
  
  You can change it if you compile the src-code by yourself.
  
