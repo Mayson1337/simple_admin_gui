@@ -3,6 +3,6 @@ Currently working on Java GUI with Adminlogin - easy to use with my "minecraft_r
 
 + this Project is not released!
 
-TODO:
+TODO in Login:
  + Anti SQL Injection
  + Encrypt passwords
