@@ -13,5 +13,7 @@ What your Database needs:
  + column "admingroup" in "admins"
  
  You can change it if you compile the src-code by yourself.
- 
+
+If there's a way to make the code easier, please contact me.
+
  STAY TUNED!
